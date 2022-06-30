@@ -6,7 +6,9 @@ const carros=[
     {categoria:"SUV",preco:"210000",modelo:"Tiguan",ano:"2018"},
     {categoria:"SUV",preco:"120000",modelo:"Nivus",ano:"2022"},
     {categoria:"Passeio",preco:"85000",modelo:"Passat",ano:"2017"},
-    {categoria:"Passeio",preco:"75000",modelo:"Civic",ano:"2019"}
+    {categoria:"Passeio",preco:"75000",modelo:"Civic",ano:"2019"},
+    {categoria:"Passeio",preco:"70000",modelo:"Veloster",ano:"2018"},
+    {categoria:"Passeio",preco:"800000",modelo:"Panamera",ano:"2020"}
 ]
 
 const linhas=(cat)=>{
